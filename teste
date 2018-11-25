@@ -1,0 +1,6 @@
+git init
+git add readme.txt
+git commit -m "primeiro commit"
+git remote add origin https://github.com/NathanToschiR/Lab.git
+git push origin master
+
